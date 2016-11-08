@@ -2,3 +2,7 @@ test-results/
 tmp/
 routes/
 log/
+
+public/css/*.map
+.sass-cache/
+
